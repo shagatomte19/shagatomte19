@@ -43,7 +43,9 @@
 </p>
 
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/shagatomte19/shagatomte19/output/snake.svg" alt="Snake animation" />
 
 
 
