@@ -28,9 +28,9 @@
 
 <h3 align="center">Specialized Models and Tools</h3>
 <ul style="list-style: none; padding: 0; text-align: center; font-size: 18px; line-height: 2;">
+  <li style="color: #2D3748; font-weight: bold;">✨ GaN - Generative Adversarial Networks</li>
   <li style="color: #2D3748; font-weight: bold;">✨ LLM - Large Language Models</li>
   <li style="color: #2D3748; font-weight: bold;">✨ RAG - Retrieval-Augmented Generation</li>
-  <li style="color: #2D3748; font-weight: bold;">✨ GaN - Generative Adversarial Networks</li>
   <li style="color: #2D3748; font-weight: bold;">✨ BERT - Bidirectional Encoder Representations from Transformers</li>
   <li style="color: #2D3748; font-weight: bold;">✨ GPT - Generative Pre-trained Transformer</li>
   <li style="color: #2D3748; font-weight: bold;">✨ CLIP - Contrastive Language-Image Pretraining</li>
