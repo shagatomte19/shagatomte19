@@ -21,6 +21,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" />
 </div>
 
 ---
