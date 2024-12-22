@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shagato</h1>
 
-<h3 align="center">Full Stack Developer and AI Practitioner</h3>
+<h3 align="center">Generative AI Researcher</h3>
 
 
 
@@ -16,24 +16,30 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
 </div>
+
+---
+
+
+<h3 align="center">Specialized Models and Tools</h3>
+<ul style="list-style: none; padding: 0; text-align: center; font-size: 18px; line-height: 2;">
+  <li style="color: #2D3748; font-weight: bold;">✨ LLM - Large Language Models</li>
+  <li style="color: #2D3748; font-weight: bold;">✨ RAG - Retrieval-Augmented Generation</li>
+  <li style="color: #2D3748; font-weight: bold;">✨ GaN - Generative Adversarial Networks</li>
+  <li style="color: #2D3748; font-weight: bold;">✨ BERT - Bidirectional Encoder Representations from Transformers</li>
+  <li style="color: #2D3748; font-weight: bold;">✨ GPT - Generative Pre-trained Transformer</li>
+  <li style="color: #2D3748; font-weight: bold;">✨ CLIP - Contrastive Language-Image Pretraining</li>
+  <li style="color: #2D3748; font-weight: bold;">✨ LangChain - Framework for LLM Applications</li>
+
+  <li style="color: #2D3748; font-weight: bold;">✨ Diffusion Models - Generative Models for Image Synthesis</li>
+</ul>
+
+
 
 
 <h3 align="center">Connect With Me</h3>
