@@ -39,7 +39,7 @@
 </td>
 <td align="center">
 <!-- Streak Stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shagatomte19&theme=tokyonight&hide_border=true&date=20250811" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shagatomte19&theme=tokyonight&hide_border=true&date=20250812" />
 </td>
 </tr>
 <tr>
