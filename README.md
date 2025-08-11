@@ -131,15 +131,6 @@
   <img src="https://img.shields.io/badge/▶_Scikit--Learn-00FF88?style=for-the-badge&logo=scikit-learn&logoColor=000000&labelColor=002200&logoWidth=20" />
 </p>
 
-<div align="center">
-
-```
-[STATUS] AI_SYSTEMS: ████████████████████████████████ 100% ONLINE
-[NEURAL] NETWORKS:   ████████████████████████████████ OPTIMIZED
-[MODELS] DEPLOYED:   ████████████████████████████████ READY
-```
-
-</div>
 
 ---
 
@@ -153,17 +144,6 @@
   <img src="https://img.shields.io/badge/◉_MLflow-00FF41?style=for-the-badge&logo=mlflow&logoColor=000000&labelColor=001100&logoWidth=20" />
 </p>
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ CONTAINER_STATUS: [RUNNING] │ CLUSTER_HEALTH: [OPTIMAL]        │
-│ CI/CD_PIPELINE:   [ACTIVE]  │ INFRASTRUCTURE: [TERRAFORM]      │
-│ MONITORING:       [ENABLED] │ DEPLOYMENT:     [AUTOMATED]      │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
@@ -216,17 +196,6 @@
   <img src="https://img.shields.io/badge/◈_Redis-33FF66?style=for-the-badge&logo=redis&logoColor=000000&labelColor=000000&logoWidth=20" />
 </p>
 
-<div align="center">
-
-```
-╭───────────────────────────────────────────────────────────╮
-│  DATABASE_CLUSTER: [SYNCHRONIZED] │ CACHE_LAYER: [HOT]    │
-│  REPLICATION:      [MULTI-MASTER] │ BACKUP:     [REALTIME] │
-│  PERFORMANCE:      [OPTIMIZED]    │ UPTIME:      [99.99%] │
-╰───────────────────────────────────────────────────────────╯
-```
-
-</div>
 
 </div>
 
@@ -253,25 +222,6 @@
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-```
-▶ NEURAL_NETWORKS: [OPERATIONAL] ◀
-```
-
-</div>
-
-</div>
-
----
-
-<!-- 3D Trophies -->
-<div align="center">
-
-## 🏆 **ACHIEVEMENT SHOWCASE**
-
-<img src="https://github-profile-trophy.vercel.app/?username=shagatomte19&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 
 </div>
 
@@ -343,11 +293,10 @@
 
 <!-- Animated GIF -->
 <br><br>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="AI Brain Animation" />
-
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnY4NmxxYXJ1bGF5bDY5Zmd6MTkwOTd5NzF1NDZjY2ZoeWxkajRsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JvlJSmxmKSXyE/giphy.gif" width="900" alt="Batman Animated Series GIF" />
 </div>
 
 <!-- Animated Footer -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=KEEP%20INNOVATING&fontSize=30&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=footer&text=◉%20SYSTEM.LOGOUT&fontSize=32&fontColor=00FF41&animation=fadeIn&fontAlignY=45&desc=▶%20CONNECTION%20TERMINATED%20◀&descSize=14&descAlignY=70&descColor=00CC33" />
 </div>
