@@ -106,11 +106,17 @@ I specialize in **AI/ML engineering**, **MLOps**, and **backend development**. P
 
 </div>
 
-## 🐍 Contribution Graph
 
 <div align="center">
   
 ![Snake Animation](https://raw.githubusercontent.com/shagatomte19/shagatomte19/output/github-snake-dark.svg)
+
+</div>
+
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shagatomte19&custom_title=Contribution%20Activity&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=70a5fd&title_color=70a5fd&area=true&hide_border=true)
 
 </div>
 
