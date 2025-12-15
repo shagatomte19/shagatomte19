@@ -118,9 +118,8 @@ I specialize in **AI/ML engineering**, **MLOps**, and **backend development**. P
 
 <div align="center">
   
-### 💭 *"Where creativity meets computation"*
 
-<sub>⭐ From [shagatomte19](https://github.com/shagatomte19)</sub>
+<sub>⭐ From [Shagato](https://github.com/shagatomte19)</sub>
 
 </div>
 
