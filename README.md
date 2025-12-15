@@ -1,10 +1,9 @@
 <div align="center">
 
-# 👋 Hey, I'm Shagato
+# Hey, I'm Shagato
 
 ### AI Engineer • MLOps • Backend Developer
 
-*Building intelligent systems that matter*
 
 <br>
 
@@ -27,24 +26,83 @@ I specialize in **AI/ML engineering**, **MLOps**, and **backend development**. P
 - 👁️ Computer Vision Applications
 - ⚡ High-Performance Backend Architecture
 
-## 💻 Tech Arsenal
+## 💻 Tech Stack
 
-```python
-tech_stack = {
-    "languages": ["Python", "Go", "C++"],
-    "ai_ml": ["PyTorch", "TensorFlow", "Hugging Face", "LangChain"],
-    "backend": ["FastAPI", "Django", "Gin"],
-    "devops": ["Docker", "Kubernetes", "Terraform", "MLflow"],
-    "databases": ["MySQL", "Redis", "SQLite"]
-}
-```
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+<br>Go
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br>PyTorch
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br>Django
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+<br>Terraform
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+<br>SQLite
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+<br>Actions
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**AI/ML Tools:** Hugging Face • LangChain • LlamaIndex • Scikit-Learn • OpenAI
+
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shagatomte19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagatomte19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shagatomte19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagatomte19&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
@@ -77,6 +135,4 @@ tech_stack = {
 </div>
 
 <!-- Animated Footer -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=footer&text=◉%20SYSTEM.LOGOUT&fontSize=32&fontColor=00FF41&animation=fadeIn&fontAlignY=45&desc=▶%20CONNECTION%20TERMINATED%20◀&descSize=14&descAlignY=70&descColor=00CC33" />
-</div>
+
